@@ -1,11 +1,11 @@
 import Headline from "./Headline";
-import Feature from "./Feature";
+import Showcase from "./Showcase";
 import Grid from "./Grid";
 import Placeholder from "./Placeholder";
 
 const Components = {
   headline: Headline,
-  feature: Feature,
+  showcase: Showcase,
   grid: Grid
 };
 
