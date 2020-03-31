@@ -1,6 +1,8 @@
 const Nav = ({ settings }) => (
   <header className="top-header util__flex util__container">
-    <nav className="top-header__col">Navigation</nav>
+    <nav className="top-header__col">
+      <h1>The Green List</h1>
+    </nav>
     <nav className="top-header__col top-header__second-navi">Contact</nav>
     <style jsx>{`
       .top-header {
